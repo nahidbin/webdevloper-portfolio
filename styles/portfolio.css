@@ -97,7 +97,7 @@ nav {
     font-weight: 700;
     color: #181818;
     margin-top: 5px;
-    margin bottom: 10px;
+    margin bottom: 20px;
     }
     .banner-description{
     
@@ -115,4 +115,16 @@ nav {
         background: #FFF8F3;
         margin: 130px
          0px;
+    }
+    /* main section styles */
+    main{
+        max-width: 1140px;
+        margin: 0px auto;
+    }
+    .about-info-container{
+        display: flex;
+        justify-content: space-around;
+    }
+    .about-info{
+        text-align: center;
     }
