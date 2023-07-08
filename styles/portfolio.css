@@ -128,9 +128,21 @@ nav {
     .about-info{
         text-align: center;
     }
+    /* skills related stayle  */
     #What-i-do-description{
         padding: 30px 150px;
 
+
+    }
+    .skills-container{
+        display: flex;
+        
+    }
+    .skill{
+        padding: 30px;
+        gap: 24pxs;
+    }
+    .skill-description{
 
     }
     
